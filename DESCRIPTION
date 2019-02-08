@@ -1,0 +1,15 @@
+Package: nlregVL
+Type: Package
+Title: Non-linear fits for psychometric functions
+Version: 1.2.5
+Date: 2016-07-27
+Author: Vincent Laflamme
+Maintainer: Vincent Laflamme <vincent.laflamme.1@ulaval.ca>
+Description: Non-linear fits for psychometric functions
+License: None
+Imports:
+    minpack.lm,
+    ggplot2
+Depends:
+    data.table
+RoxygenNote: 5.0.1
